@@ -5,10 +5,18 @@
 ___
 # Features:
 
-|Features       | Basic         | Pro           | Enterprise  |
-|:-------------:|:-------------:|:-------------:|:-----------:|
-| On/Off        | ✔            | ✔            | ✔          |
-| Record        | ❌            | watermark     | ✔          |
-| Pen           | ✔            | ✔            | ✔          |
-| Clear Button  | ❌            | ✔            | ✔          |
-| Screenshot    | ❌            | ✔            | ✔          |
+|Features           | Basic         | Pro           | Enterprise  |
+|:-----------------:|:-------------:|:-------------:|:-----------:|
+| On/Off            | ✔            | ✔            | ✔          |
+| Screen            | ✔            | ✔            | ✔          |
+| Record            | ❌            | watermark     | ✔          |
+| Pen               | ✔            | ✔            | ✔          |
+| Speaker           | ❌            | ✔            | ✔          |
+| Clear Button      | ❌            | ✔            | ✔          |
+| Screenshot        | ❌            | ✔            | ✔          |
+| Play/Pause        | ❌            | ❌            | ✔          |
+| Instant Share     | ❌            | ❌            | ✔          |
+| Wifi              | 15MB/Day      | 50MB/Day      | ✔          |
+| Bluetooth         | ❌            | ❌            | ✔          |
+| Price Monthly     | $1.99         | $4.99         | $19.99       |
+| Price  Yearly     | $19.99        | $49.99        | $99.99       |
