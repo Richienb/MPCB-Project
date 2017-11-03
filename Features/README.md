@@ -5,18 +5,4 @@
 ___
 # Features:
 
-|Features           | Basic         | Pro           | Enterprise  |
-|:-----------------:|:-------------:|:-------------:|:-----------:|
-| On/Off            | ✔            | ✔            | ✔          |
-| Screen            | ✔            | ✔            | ✔          |
-| Pen               | ✔            | ✔            | ✔          |
-| Clear Button      | ✔            | ✔            | ✔          |
-| Speaker           | ❌            | ✔            | ✔          |
-| Screenshot        | ❌            | ✔            | ✔          |
-| Wifi              | 15MB/Day      | 50MB/Day      | ✔          |
-| Record            | ❌            | Watermark     | ✔          |
-| Bluetooth         | ❌            | ❌            | ✔          |
-| Play/Pause        | ❌            | ❌            | ✔          |
-| Instant Share     | ❌            | ❌            | ✔          |
-| Price Monthly     | $1.99         | $4.99         | $19.99       |
-| Price  Yearly     | $19.99        | $49.99        | $99.99       |
+![Features Table](https://raw.githubusercontent.com/Richienb/MPCB-Project/master/images/features-chart.png)
