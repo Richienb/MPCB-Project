@@ -14,7 +14,7 @@ ___
 | Speaker           | ❌            | ✔            | ✔          |
 | Screenshot        | ❌            | ✔            | ✔          |
 | Wifi              | 15MB/Day      | 50MB/Day      | ✔          |
-| Record            | ❌            | watermark     | ✔          |
+| Record            | ❌            | Watermark     | ✔          |
 | Bluetooth         | ❌            | ❌            | ✔          |
 | Play/Pause        | ❌            | ❌            | ✔          |
 | Instant Share     | ❌            | ❌            | ✔          |
