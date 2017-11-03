@@ -4,4 +4,4 @@
 
 ___
 # About Us:
-### We are Richie, Zoe, Joanna And Jessica
+### We are Richie, Zoie, Joanna And Jessica
