@@ -9,14 +9,14 @@ ___
 |:-----------------:|:-------------:|:-------------:|:-----------:|
 | On/Off            | ✔            | ✔            | ✔          |
 | Screen            | ✔            | ✔            | ✔          |
-| Record            | ❌            | watermark     | ✔          |
 | Pen               | ✔            | ✔            | ✔          |
+| Clear Button      | ✔            | ✔            | ✔          |
 | Speaker           | ❌            | ✔            | ✔          |
-| Clear Button      | ❌            | ✔            | ✔          |
 | Screenshot        | ❌            | ✔            | ✔          |
+| Wifi              | 15MB/Day      | 50MB/Day      | ✔          |
+| Record            | ❌            | watermark     | ✔          |
+| Bluetooth         | ❌            | ❌            | ✔          |
 | Play/Pause        | ❌            | ❌            | ✔          |
 | Instant Share     | ❌            | ❌            | ✔          |
-| Wifi              | 15MB/Day      | 50MB/Day      | ✔          |
-| Bluetooth         | ❌            | ❌            | ✔          |
 | Price Monthly     | $1.99         | $4.99         | $19.99       |
 | Price  Yearly     | $19.99        | $49.99        | $99.99       |
